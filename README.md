@@ -61,5 +61,3 @@ curl -X GET http://localhost:31000/info
 curl -X DELETE http://localhost:31000/user/1
 ```
 
-## Contributing
-
